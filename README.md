@@ -1,2 +1,2 @@
 # suepremecode
-to become sue.preme
+run `hello.py` to become sue.preme
